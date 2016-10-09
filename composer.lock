@@ -432,6 +432,7 @@
                 "laravel"
             ],
             "time": "2016-10-04 16:05:47"
+<<<<<<< HEAD
         },
         {
             "name": "laravelcollective/html",
@@ -486,6 +487,8 @@
             "description": "HTML and Form Builders for the Laravel Framework",
             "homepage": "http://laravelcollective.com",
             "time": "2016-08-27 23:52:43"
+=======
+>>>>>>> 2537c0afcf95b92c714976f47eda14a70423b089
         },
         {
             "name": "league/flysystem",
@@ -2630,6 +2633,7 @@
         },
         {
             "name": "phpunit/phpunit",
+<<<<<<< HEAD
             "version": "5.5.7",
             "source": {
                 "type": "git",
@@ -2640,6 +2644,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/3f67cee782c9abfaee5e32fd2f57cdd54bc257ba",
                 "reference": "3f67cee782c9abfaee5e32fd2f57cdd54bc257ba",
+=======
+            "version": "5.5.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sebastianbergmann/phpunit.git",
+                "reference": "146e0fe0bb7f44d1cefade0c93e86fe0b206dd79"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/146e0fe0bb7f44d1cefade0c93e86fe0b206dd79",
+                "reference": "146e0fe0bb7f44d1cefade0c93e86fe0b206dd79",
+>>>>>>> 2537c0afcf95b92c714976f47eda14a70423b089
                 "shasum": ""
             },
             "require": {
@@ -2709,7 +2725,11 @@
                 "testing",
                 "xunit"
             ],
+<<<<<<< HEAD
             "time": "2016-10-03 13:04:15"
+=======
+            "time": "2016-10-03 07:48:45"
+>>>>>>> 2537c0afcf95b92c714976f47eda14a70423b089
         },
         {
             "name": "phpunit/phpunit-mock-objects",
